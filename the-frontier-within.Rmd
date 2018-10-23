@@ -1,0 +1,393 @@
+---
+title: "The Frontier Within"
+author: "Rick O. Gilmore"
+date: "`r Sys.time()`"
+bib: references.bib
+output:
+  revealjs::revealjs_presentation:
+    css: styles.css
+    self_contained: false
+    lib_dir: libs
+    incremental: false
+    theme: simple
+    transition: none
+    reveal_plugins: ["notes", "zoom"]
+    reveal_options:
+      slideNumber: true
+      previewLinks: false
+      center: true
+      touch: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Preliminaries
+
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/NSF_Logo.PNG" height=150px>
+<img src="https://science.nichd.nih.gov/confluence/download/attachments/34472103/NICHD-vertical-2-color.png?version=1&modificationDate=1477410070000&api=v2" height=150px>
+</br>
+<img src="https://sloan.org/storage/app/media/Logos/Sloan-Logo-stacked-black-web.png" height=150px>
+<img src="http://newsroom.unl.edu/announce/files/file77330.jpg" height=150px/>
+<img src="https://www.unicef.org.hk/wp-content/uploads/2017/08/Logo-05_Lego-foundation_UNICEF_partnership.jpg" height=150px />
+</br>
+<img src="https://nationalpress.org/wp-content/uploads/2016/04/NIDA-logo-300x300.jpg" height=150px/>
+<img src="http://bewellva.com/wp-content/uploads/2017/12/NIMH-Logo_14-e1510955490255.jpg" height=150px/>
+
+<!-- Funding sources with icons -->
+
+## About me
+
+- Associate Professor of Psychology
+- Founding Director of Human Imaging, PSU [SLEIC](http://imaging.psu.edu)
+- Co-Founder/Co-Director [Databrary.org](http://databrary.org)
+
+---
+
+- Ph.D. in cognitive neuroscience, Carnegie Mellon University
+- B.A. in cognitive science, Brown University
+- vision, perception & action, brain development, open science
+
+- ham (K3ROG), actor/singer, banjo-picker, hiker/cyclist, coder
+- Denver native, husband & father of two daughters
+
+# The Frontier Within
+
+## Core questions for science
+
+1. How did the Universe begin?
+2. What is the origin of life?
+3. What is the nature of mind?
+
+## Neuroscience is harder than physics
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-1.jpg" width=800px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-2.jpg" width=800px/>
+</div>
+
+
+
+# What must it do?
+
+## Job description
+
+- Preserve, protect, defend...
+- Eat, drink, & be merry...
+- Be fruitful & multiply...
+
+---
+
+<img src="https://i.ebayimg.com/images/g/d44AAOxygPtSvdPG/s-l1600.jpg"/>
+
+<!-- Preserve, protect, defend... -->
+
+---
+
+<img src="https://www.twotwentyone.net/wp-content/uploads/2013/11/eat-drink-merry-multicolor-8x10.jpg"/>
+
+<!-- Eat, drink, & be merry... -->
+
+---
+
+<img src="https://i0.wp.com/www.focuspress.org/wp-content/uploads/2014/08/Be-Fruitful-and-Multiply.jpg?resize=300%2C201&ssl=1"/>
+
+<!-- Be fruitful & multiply... -->
+
+---
+
+<img src="https://d2gne97vdumgn3.cloudfront.net/api/file/mBcO4PfRMWiAPKuQGXDA"/>
+
+<!-- Hypothalamus -->
+
+## Hypothalamus & the "4 Fs"
+
+- Fighting
+- Fleeing
+- Feeding
+- Mating
+
+## Perception -> Cognition -> Action Cycle
+
+- What's out there?
+- Where is it?
+- How am I feeling now?
+- What should I do about it?
+
+---
+
+<img src="https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/40287cc4-942b-4b83-b6d8-320ec81aa746/gr1.jpg"/>
+
+[[@Fuster2004-pe]](http://doi.org/10.1016/j.tics.2004.02.004)
+
+---
+
+<img src=https://ars.els-cdn.com/content/image/1-s2.0-S1364661304000476-gr2.gif"/>
+
+[[@Fuster2004-pe]](http://doi.org/10.1016/j.tics.2004.02.004)
+
+https://ars.els-cdn.com/content/image/1-s2.0-S1364661304000476-gr2.gif
+
+---
+
+> "If understanding everything we need to know about the brain is a mile, how far have we walked?"
+
+J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
+
+## Spatial resolution
+
+<div class="centered">
+<img src="img/churchland-levels-of-analysis.gif"/>
+</div>
+
+## Spatial and Temporal Resolution
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)
+</div>
+
+# How does it work?
+
+## Metaphors for mind...
+
+<img src="http://larrywswanson.com/wp-content/uploads/2015/06/Descartes-1662.jpg"/>
+
+<!-- Descartes -->
+
+---
+
+<img src="https://c1.staticflickr.com/4/3613/3660047829_7e26b20599_b.jpg"/>
+
+<!-- Switchboard -->
+
+---
+
+<img src="https://callnerds.com/wp-content/uploads/basic-computer-parts-01.svg"/>
+
+<!-- Computer -->
+
+---
+
+<img src="https://www.androidcentral.com/sites/androidcentral.com/files/topic_images/2014/Cell-Phone-Plans-topic-page-graphic.png"/>
+
+<!-- Cell phone -->
+
+---
+
+<img src="https://news.wisc.edu/content/uploads/2017/04/Internet-Atlas-map-768x422.jpg"/>
+
+<!-- Internet -->
+
+## Common themes
+
+- Connectivity/communication
+- Multiple components
+- Information processing/computation
+- Inputs & outputs
+
+## The brain has many parts
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Brain anatomy song
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Qw8E9WnZTQk" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snO68aJTOpM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Brain anatomy through dance
+
+<div class="centered">
+<audio controls>
+  <source src="snd/brain_boxing-2.m4a">
+</audio>
+</div>
+
+## Finding our way around
+
+### **Anterior/Posterior**
+### **Medial/Lateral**
+### **Superior/Inferior**
+### **Dorsal/Ventral**
+### **Rostral/Caudal**
+
+---
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png" height="450px">
+
+<!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png> -->
+</div>
+
+## Bipeds vs. quadripeds {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg" height="500px">
+
+<!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg> -->
+</div>
+
+## The parts have special functions
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Circadian_rhythm_labeled.jpg/350px-Circadian_rhythm_labeled.jpg" height=450px/>
+</div>
+
+# How neurons compute & communicate
+
+---
+
+<div class="centered">
+<img src="https://i.stack.imgur.com/kfriB.jpg" height=450px/>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0K2dvB-7WY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Neurotransmitters send chemical messages
+
+<div class="centered">
+<img src="https://www.proprofs.com/quiz-school/topic_images/p1bsmqh6un6sdfto1f8m1184nr83.jpg" height=450px/>
+</div>
+
+## Monoamine Song
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gsjcb7w1Y-w" frameborder="0" allowfullscreen></iframe>
+
+<https://en.wikipedia.org/wiki/Mah_Nà_Mah_Nà>
+
+## Monoamine Song
+
+￼Monoamines, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+## Monoamine Song
+
+￼Monoamines, do-pa-mine is one</br>
+Monoamines, norepi, too</br>
+Monoamines, sero-tonin e-pinephrine, dop-a- mine, nor-epinephrine, melatonin, whoo!
+
+## Monoamine Song
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
+---
+
+<div class="centered">
+<img src="https://www.proprofs.com/quiz-school/topic_images/p1bsmqh6un6sdfto1f8m1184nr83.jpg" height=450px/>
+</div>
+
+# How did it get here?
+
+## Evolving brains
+
+## Developing brains
+
+## Maintaining brains
+
+# Where is it going?
+
+## The reproducibility crisis
+
+<div class="centered">
+<img src="http://www.nature.com/polopoly_fs/7.36716.1469695923!/image/reproducibility-graphic-online1.jpeg_gen/derivatives/landscape_630/reproducibility-graphic-online1.jpeg" height=550px>
+</br>
+<small>
+([Baker, 2016](http://doi.org/10.1038/533452a))
+</small>
+</div>
+
+<div class="notes">
+Nature conducted a survey of some 1,600 scientists in 2016. They were asked this question and a few others. Here are the results.
+</div>
+
+---
+
+<div class="centered">
+<img src="https://cdn.shopify.com/s/files/1/0877/5762/products/Rigor_Mortis_1024x1024.jpg?v=1491240110" height=550px/>
+</div>
+
+---
+
+<div class="centered">
+<img src="http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2000797.g003&type=large" height=500px>
+
+<small>([Szucs & Ioannides, 2017](http://doi.org/10.1371/journal.pbio.2000797))</small>
+</div>
+
+<div class="notes">
+As Szucs and Ioannides have shown based on an analysis of more than 10,000 papers in the cognitive neuroscience literature, sample sizes are small, and the probability of false negatives is high, especially for small to medium effect sizes.
+</div>
+
+---
+
+<div class="centered">
+> "Assuming a realistic range of prior probabilities for null hypotheses, false report probability is likely to exceed 50% for the whole literature."
+
+<small>([Szucs & Ioannides, 2017](http://doi.org/10.1371/journal.pbio.2000797))</small>
+</div>
+
+<div class="notes">
+So, this means that we may not know what we think we know.
+</div>
+
+## On the other hand...
+
+<!-- Open data sharing -->
+
+## Imaging the brain
+
+<!-- fMRI -->
+
+<!-- Human Connectome Project -->
+
+## Stimulating the brain
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDjWdtDyz5I" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Effects of DBS for Parkinson's.
+</div>
+
+## Simulating the brain
+
+<img src="http://cs231n.github.io/assets/cnn/convnet.jpeg"/>
+
+<!-- Convolutional neural networks -->
+
+---
+
+# The frontier within...
+
+---
+
+<video width="800" loop data-autoplay>
+  <source src="https://github.com/gilmore-lab/DEVSEC-2018/blob/master/mov/databrary-splash.mp4?raw=true" type="video/mp4">
+  </video>
+
+rogilmore@psu.edu
+
+<https://gilmore-lab.github.io>
+
+<https://gilmore-lab.github.io/2018-10-16-bs-in-science/>
+
+# Resources
