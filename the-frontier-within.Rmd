@@ -69,24 +69,18 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <div class="centered">
-<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-1.jpg" width=800px/>
+<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-1.jpg" height=600px/>
 </div>
 
 ---
 
 <div class="centered">
-<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-2.jpg" width=800px/>
+<img src="https://raw.githubusercontent.com/gilmore-lab/sips-2017-databservatory/master/img/psych-harder-2.jpg" height=600px/>
 </div>
 
 # What must the nervous system do?
 
-## What behaviors are essential for animals to perform?
-
----
-
-- Defense
-- Ingestion
-- Reproduction
+## (What behaviors are essential for animals to perform?)
 
 ---
 
@@ -100,17 +94,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- Eat, drink, & be merry... -->
 
----
+## Be fruitful & multiply...
 
-<img src="https://i7.photobucket.com/albums/y288/daveclark85/Reverend%20Fun%20Pics/RevFunAdamMultiplies.gif" height=600px/>
+<img src="https://i7.photobucket.com/albums/y288/daveclark85/Reverend%20Fun%20Pics/RevFunAdamMultiplies.gif" height=550px/>
 
 <!-- Be fruitful & multiply... -->
 
-## What behaviors are essential for animals to perform?
+---
+
+- Defense
+- Ingestion
+- Reproduction
+
+## What *specific* behaviors?
 
 ---
 
-- Perception at a distance
+- Perception (what/where) at a distance
 - Locomotion
 - Object manipulation/consumption
 - Signaling/communication
@@ -120,26 +120,27 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <div class="centered">
-<a href="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg" width=850px>
+<a href="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg" height=550px>
 </a>
+
+<small>[Swanson 2005](http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg)</small>
 </div>
 
 ---
 
 <div class="centered">
-<a href="http://larrywswanson.com/wp-content/uploads/2015/06/Willis-on-Steno-circuit.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/Willis-on-Steno-circuit.jpg" height=500px>
+<a href="http://larrywswanson.com/wp-content/uploads/2015/06/Willis-on-Steno-circuit.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/Willis-on-Steno-circuit.jpg" height=550px>
 </a>
 
-[Swanson 2005](http://larrywswanson.com/wp-content/uploads/2015/06/Willis-on-Steno-circuit.jpg)
+<small>[Swanson 2005](http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg)</small>
 </div>
 
 ---
 
 <div class="centered">
-<a href="http://larrywswanson.com/wp-content/uploads/2015/06/Cajal-1893-Reflex.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/Cajal-1893-Reflex.jpg" height=550px>
+<a href="http://larrywswanson.com/wp-content/uploads/2015/06/Cajal-1893-Reflex.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/Cajal-1893-Reflex.jpg" height=600px>
 </a>
 </div>
-
 
 ## Perception -> Cognition -> Action Cycle
 
@@ -152,11 +153,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-<img src="https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/40287cc4-942b-4b83-b6d8-320ec81aa746/gr1.jpg" height=550px/>
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1364661304000476-gr2.gif" height=550px/>
 
-[Fuster 2004](http://doi.org/10.1016/j.tics.2004.02.004)
-
-## Phenomena span vast scales
+<small>[Fuster 2004](http://doi.org/10.1016/j.tics.2004.02.004)</small>
 
 ---
 
@@ -165,7 +164,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" height="600px">
 </a>
 
-[Sejnowski 2014](http://doi.org/10.1038/nn.3839)
+<small>[Sejnowski 2014](http://doi.org/10.1038/nn.3839)</small>
 </div>
 
 ---
@@ -176,15 +175,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
+J. Lichtman
+<!-- <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be> -->
 
 # Inching along...
 
-## Metaphors for mind...
+---
 
-<img src="http://larrywswanson.com/wp-content/uploads/2015/06/Descartes-1662.jpg" height=500px/>
+<img src="https://d.ibtimes.co.uk/en/full/396102/mummified-body-woman-representative-purposes.jpg?w=630&e=95f85be8612d0edda8a9a74a906d83e9" height=600px/>
 
-<!-- Descartes -->
+<!-- Egyptian mummy -->
+
+---
+
+<img src="http://larrywswanson.com/wp-content/uploads/2015/06/Descartes-1662.jpg" height=550px/>
+
+<small>Descartes 1662</small>
 
 ---
 
@@ -208,19 +214,16 @@ J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
 
 <img src="img/submarine-cable-map.jpg" height=600px/>
 
-<https://www.submarinecablemap.com/>
-
-## Common themes
+<small><https://www.submarinecablemap.com/></small>
 
 ---
 
-- Connectivity/communication
-- Multiple components
 - Inputs & outputs
+- Connectivity/communication
 - Information processing/computation
-- Functional specialization
+- Functionally specialized components
 
-## The brain has many parts
+---
 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/snO68aJTOpM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -248,17 +251,17 @@ J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
 <!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png> -->
 </div>
 
-## Bipeds vs. quadripeds {.smaller}
+<!-- ## Bipeds vs. quadripeds {.smaller} -->
 
-<div class="centered">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg" height="500px">
+<!-- <div class="centered"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg" height="500px"> -->
 
-<!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg> -->
-</div>
+<!-- <!-- <https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg> -->
+<!-- </div> -->
 
 ## The parts have special functions
 
-## Hypothalamus & the "4 Fs"
+## The "4 Fs"
 
 - Fighting
 - Fleeing
@@ -275,14 +278,53 @@ J. Lichtman, <https://www.youtube.com/watch?v=nvXuq9jRWKE&feature=youtu.be>
 
 ## Cells of the nervous system
 
-- Glial ("glue") cells
-- Nerve cells (neurons)
+## Glial ("glue"") cells
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png" height=500px>
+</a>
+</div>
+
+---
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg" height=600px>
+</a>
+</div>
+
+## Neurons
+
+<div class="centered">
+<a href="http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg">
+<img src="http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg" height=550px/>
+</a>
+</div>
+
+---
+
+<div class="centered">
+<a href="http://blogs.scientificamerican.com/brainwaves/files/2012/05/selection-glamor-FINAL-300x225.jpg">
+<img src="http://blogs.scientificamerican.com/brainwaves/files/2012/05/selection-glamor-FINAL-300x225.jpg" height=550px>
+</a>
+</div>
+
+## Fun facts about [neurons](https://en.wikipedia.org/wiki/Neuron)
+
+- Most [born early in life](http://www.ninds.nih.gov/disorders/brain_basics/ninds_neuron.htm)
+- Post-mitotic -- don't divide
+- Among longest-lived cells in body
+- Can extend over long distances
+- Specialized for electrical & chemical communication
 
 ---
 
 <div class="centered">
 <img src="https://i.stack.imgur.com/kfriB.jpg" height=450px/>
 </div>
+
+<!-- Schematic neuron showing information flow -->
 
 ---
 
@@ -320,8 +362,6 @@ Monoamines, mod-u-late neurons </br>
 Monoamines, throughout the brain</br>
 Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
 
-## Substances of use and abuse activate receptors
-
 ---
 
 - Nicotine
@@ -331,15 +371,35 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 - Opioids
 - Marijuana
 
-# How did it get here?
+## Substances of use and abuse often mimic or alter neurotransmitters
 
-## The emergence of behavior
+# How did it get here?
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Geologic_Clock_with_events_and_periods.svg/750px-Geologic_Clock_with_events_and_periods.svg.png" height=600px/>
+<div class="centered">
+<img src="https://cdn.spacetelescope.org/archives/images/large/heic0916a.jpg" height=600px>
+</div>
 
-## What sparked the explosion?
+---
+
+<div class="centered">
+<a href="http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif">
+<img src="http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif" height=600px>
+</a>
+</div>
+
+---
+
+<div class="centered">
+<a href="http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif">
+<img src="http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif" height=600px>
+</a>
+</div>
+
+## What sparked the Cambrian explosion?
+
+---
 
 - Behavior requires energy
 - Behavior requires perception at a distance
@@ -348,9 +408,140 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 ## Evolving brains
 
+---
+
+<div class="centered">
+<img src="img/nrn.2015.15-f1.jpg" height=550px>
+
+<small>[Arendt 2016](http://doi.org/10.1038/nrn.2015.15)</small>
+</div>
+
+---
+
+<div class="centered">
+<img src="img/nrn.2015.15-f2.jpg" height=550px>
+
+<small>[Arendt 2016](http://doi.org/10.1038/nrn.2015.15)</small>
+</div>
+
+---
+
+<div class="centered">
+<a href="http://icb.oxfordjournals.org/content/42/4/743/F2.large.jpg">
+<img src="img/northcutt-2002-f1.gif" height=550px>
+</a>
+
+<small>(Northcutt 2002)</small>
+</div>
+
+---
+
+<div class="centered">
+<a href="http://icb.oxfordjournals.org/content/42/4/743/F2.large.jpg">
+<img src="img/northcutt-2002-f2.gif" height=550px>
+</a>
+
+<small>(Northcutt 2002)</small>
+</div>
+
+---
+
+<div class="centered">
+<a href="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg">
+<img src="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg" height=550px>
+</a>
+</div>
+
+## Does size matter? 
+
+---
+
+<img src="http://s3v.computerhistory.org/102695698-03-01.jpg?" height=300px>
+<img src="https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-462x322.jpg" height=300px>
+
+---
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| Human   | 16 B               | 1233              |
+| Chimpanzee | 6 B             | 286               |
+| Elephant | 5.6 B             | 2800              |
+| Baboon | 2.9 B               | 120.2             |
+
+---
+
+> "*...our brain outranks that of other animals not because we are an exception in evolution, but rather because...we hold the largest number of neurons in the cerebral cortex...*"
+
+Herculano-Houtzel 2016
+
+---
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41FcpskAqFL._SX331_BO1,204,203,200_.jpg" height=600px/>
+
 ## Developing brains
 
-## Maintaining brains
+---
+
+<!-- ## Neurulation -->
+
+<div class="centered">
+<a href="http://thebrain.mcgill.ca/flash/i/i_09/i_09_cr/i_09_cr_dev/i_09_cr_dev_2a.jpg">
+<img src="http://thebrain.mcgill.ca/flash/i/i_09/i_09_cr/i_09_cr_dev/i_09_cr_dev_2a.jpg" height=550px>
+</a>
+</div>
+
+---
+
+<div class="centered">
+<a href="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/radial-glia.jpg">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/radial-glia.jpg" height=550px>
+</a>
+</div>
+
+<!-- Migration from ventricular zone -->
+
+---
+
+<iframe width="666" height="500" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
+
+---
+
+<iframe width="666" height="500" src="https://www.youtube.com/embed/t-8bxeWqSV4" frameborder="0" allowfullscreen></iframe>
+
+---
+
+<!-- ## Axon growth cone -->
+
+<iframe width="666" height="500" src="https://www.youtube.com/embed/Fgmt2RBow0I" frameborder="0" allowfullscreen></iframe>
+
+---
+
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/synaptic-density-infant.jpg" height=550px>
+</div>
+
+<!-- ## Synaptogenesis -->
+
+---
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/huttenlocher.jpg" height=550px>
+</div>
+
+<!-- ## Postnatal patterns of synaptogenesis -->
+
+---
+
+<iframe width="666" height="500" src="https://www.youtube.com/embed/atLQVgUwnrY" frameborder="0" allowfullscreen></iframe>
+
+<!-- Myelination/DTI -->
+
+---
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51k3f40g1cL._SX343_BO1,204,203,200_.jpg" height=600px/>
+
+<!-- The Evolution of Childhood -->
 
 # Where is neuroscience going?
 
@@ -452,7 +643,7 @@ Effects of DBS for Parkinson's.
 <img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" height="580px">
 </a>
 
-[Sejnowski 2014](http://doi.org/10.1038/nn.3839)
+<small>[Sejnowski 2014](http://doi.org/10.1038/nn.3839)</small>
 </div>
 
 ---
@@ -465,31 +656,18 @@ Your browser does not support the video tag.
 
 $n=900$ 12-, 18-, 24-mo-olds; $n=30$ sites
 
-## The human behavior-ome
+## A human behavior-ome
 
 <video height="600" controls data-autoplay>
   <source src="mov/Construction.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-*Source*: Ori Ossmy (NYU)
+<small>*Source*: Ori Ossmy (NYU)</small>
 
 ---
 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/JB7jSFeVz1U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<!-- Ode to the Brain -->
-
----
-
-<video width="800" loop data-autoplay>
-  <source src="https://github.com/gilmore-lab/DEVSEC-2018/blob/master/mov/databrary-splash.mp4?raw=true" type="video/mp4">
-  </video>
-
-rogilmore@psu.edu
-
+rogilmore@psu.edu</br>
 <https://gilmore-lab.github.io>
-
-<https://gilmore-lab.github.io/2018-10-OLLI/>
-
-# Resources
