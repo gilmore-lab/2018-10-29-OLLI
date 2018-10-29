@@ -39,21 +39,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!-- Funding sources with icons -->
 
-## About me
-
-- Associate Professor of Psychology
-- Founding Director of Human Imaging, PSU [SLEIC](http://imaging.psu.edu)
-- Co-Founder/Co-Director [Databrary.org](http://databrary.org)
-
 ---
 
-- Ph.D. in psychology (cognitive neuroscience), Carnegie Mellon University
-- B.A. in cognitive science, Brown University
-
----
-
-- Denver native, husband & father of two daughters
-- ham (K3ROG), actor/singer, banjo-picker, hiker/cyclist, coder
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DenverCP.JPG/266px-DenverCP.JPG" height=150px/>
+<img src="http://watson.brown.edu/ds/sites/all/themes/ds/img/header/brown_large.png" height=150px/>
+<img src="https://www.wheretraveler.com/sites/default/files/styles/wt17_promoted/public/WashingtonDC-shutterstock_93633676.jpg?itok=IT7CL9PU" height=150px/>
+<img src="https://ai.cs.cmu.edu/sites/default/files/CMU.png" height=150px/>
+<img src="http://onwardstate.com/wp-content/uploads/2014/10/93" height=150px/>
+<img src="img/sleic.jpg" height=150px/></br>
+<img src="https://nyu.databrary.org/web/images/logo/databrary-nav.svg" height=150px>
 
 # The Frontier Within
 
@@ -82,13 +76,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <div class="centered">
-<img src="http://3.bp.blogspot.com/-3e_SbLI1Kbc/UkH085O8q5I/AAAAAAAACw4/lAZ_AJdzGss/s1600/bronfenbrenner.jpeg" height=500px>
+<img src="http://3.bp.blogspot.com/-3e_SbLI1Kbc/UkH085O8q5I/AAAAAAAACw4/lAZ_AJdzGss/s1600/bronfenbrenner.jpeg" height=600px>
 </div>
 
 ---
 
 <div class="centered">
-<img src="https://www.researchgate.net/profile/Carlo_Miniussi/publication/269877702/figure/fig2/AS:269128527249411@1441176649721/Hierarchical-modular-organisation-of-the-human-connectome-a-Hubs-regions-with-a.png" height=500px>
+<img src="https://www.researchgate.net/profile/Carlo_Miniussi/publication/269877702/figure/fig2/AS:269128527249411@1441176649721/Hierarchical-modular-organisation-of-the-human-connectome-a-Hubs-regions-with-a.png" height=600px>
 </div>
 
 # What must the nervous system do?
@@ -133,7 +127,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <div class="centered">
-<a href="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg" height=550px>
+<a href="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg" width=950px>
 </a>
 
 <small>[Swanson 2005](http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg)</small>
@@ -205,6 +199,8 @@ J. Lichtman
 
 <!-- Egyptian mummy -->
 
+## The mind as machine...
+
 ---
 
 <div class="centered">
@@ -247,9 +243,11 @@ J. Lichtman
 ---
 
 - Inputs & outputs
-- Connectivity/communication
-- Information processing/computation
+- Connectivity & communication
+- Information processing & computation
 - Functionally specialized components
+
+# Learning some of the parts
 
 ---
 
@@ -329,6 +327,12 @@ J. Lichtman
 <img src="http://blogs.scientificamerican.com/brainwaves/files/2012/05/selection-glamor-FINAL-300x225.jpg" height=550px>
 </a>
 </div>
+
+---
+
+<img src="http://east.zornitsadesign.netdna-cdn.com/wp-content/uploads/2016/03/Brainbow-Hippocampus-rainbow-colors-large.jpg" height=550px/>
+
+[Greg Dunn Designs](http://www.gregadunn.com)
 
 ## Fun facts about [neurons](https://en.wikipedia.org/wiki/Neuron)
 
@@ -420,7 +424,9 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 </a>
 </div>
 
-## What sparked the Cambrian explosion?
+## The Cambrian explosion
+
+<img src="https://www.nature.com/polopoly_fs/7.34097.1455557253!/image/HIRES_NaturalHistoryMuseum_PictureLibrary_CMYK.jpg_gen/derivatives/landscape_630/HIRES_NaturalHistoryMuseum_PictureLibrary_CMYK.jpg" height=500px/>
 
 ---
 
@@ -471,7 +477,7 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 <div class="centered">
 <a href="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg">
-<img src="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg" height=550px>
+<img src="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg" height=600px>
 </a>
 </div>
 
@@ -495,8 +501,6 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 
 > "*...our brain outranks that of other animals not because we are an exception in evolution, but rather because...we hold the largest number of neurons in the cerebral cortex...*"
 
-Herculano-Houtzel 2016
-
 ---
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41FcpskAqFL._SX331_BO1,204,203,200_.jpg" height=600px/>
@@ -512,6 +516,12 @@ Herculano-Houtzel 2016
 <img src="http://thebrain.mcgill.ca/flash/i/i_09/i_09_cr/i_09_cr_dev/i_09_cr_dev_2a.jpg" height=550px>
 </a>
 </div>
+
+---
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Spina-bifida.jpg#/media/File:Spina-bifida.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spina-bifida.jpg/1200px-Spina-bifida.jpg" alt="Spina-bifida.jpg" height=600px></a></p>
+
+<!-- Spina bifida -->
 
 ---
 
@@ -705,8 +715,17 @@ Effects of DBS for Parkinson's.
 ---
 
 <div class="centered">
+<a href="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg"><img src="http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg" width=950px>
+</a>
+
+<small>[Swanson 2005](http://larrywswanson.com/wp-content/uploads/2015/06/4-systems-network.jpg)</small>
+</div>
+
+---
+
+<div class="centered">
 <a href="http://www.apa.org/science/about/psa/2017/10/video-data.aspx">
-<img src="img/video-as-data-doc.jpg" height=580px/>
+<img src="img/video-as-data-doc.jpg" height=600px/>
 </div>
 
 ---
